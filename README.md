@@ -1,6 +1,7 @@
 # YetAnotherAngularProject
 
-Refer to my article on 
+Refer to my article on [Medium](https://medium.com/@latenightninja/building-my-dotnetcore-2-1-and-angular-cli-6-1-application-479feb7dc4e)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
